@@ -114,7 +114,6 @@ npm run dev
 # or
 yarn dev
 
-# Open http://localhost:3000 in your browser
 \`\`\`
 
 ### 5. Building for Production
